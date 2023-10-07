@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #e4ebf5;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    background-color: #e4ebf5;
+    width: 390px;
+    height: 580px;
+    border-radius: 50px;
+    padding: 40px 20px;
+    box-shadow: 0.3rem 0.3rem 0.6rem #c8d0e7, -0.3rem -0.3rem 0.6rem #fff;
+}
